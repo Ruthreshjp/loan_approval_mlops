@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pkl
+*.joblib
+*.csv
+*.zip
+*.pt
+*.pth
